@@ -1,1 +1,1 @@
-# dj-events
+# dj-events-frontend
